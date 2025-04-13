@@ -1,0 +1,48 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+## TRAINING COURSE - NFPA 70E
+### Day 1 (06-Aug-2024)
+
+
+### Day 2 (07-Aug-2024)
+* The selection of the PPE must be at least of 15% of the incident Energy calculated. 
+
+* Material type of clothes for arc flash
+  + Inherent fabrics 
+  + Aramids
+
+* Long time of trip, more energy dissipated.
+
+### Day 3 (07-Aug-2024)
+* If the energized parts of equipment are not exposed, there is no risk of electric Shock.
+* Frontera de aproximacion limitada
+  + cualquiera acompañado, pero con EPP con proteccion al shock electrico
+* Frontera de aproximacion limitada
+  + Personal calificado con EPPs addicionalmente con proteccion al arco
+* Proteccion por Shock Electrico
+  + EPPs aislantes
+* Proteccion por arco electrico
+  + EPPs con proteccion contra el arco, no ignifuga.
+* Bajo condicion de operacion normal del equipo no existe riesgo de shock electrico
+* Mayor area de cuerpo quemado menos probabilidades de sobrevivir
+* Dos etapas en falla de arco
+  + relampago de arco
+  + rafaga de arco
+* Longitud de EPP aislante debe ser mayor a la frontera de aproximación restringida (Tabla 130.4).
+* El guante aislante debe tener mayor longitud que el guante de cuero o guante de proteccion al arco.
+
+> 130.7 tabla de seleccion de guante aisltante 
+
+* La NFPA no exige el uso de candados dielectricos para bloqueo.
+* Valores de resistencia de categorias en instrumentos de prueba
+* Vivo-Muerto-vivo  
+  + Probar el instrumento con una fuente viva, luego verificar la fuente aislada, finalmente verificar con una fuente viva.
+  
+### Day 4 (08-Aug-2024)
+* Se puede usar guante de algodon para evitar que se pegue el guante dieletrico.
+* Se delimita la frontera de arco o de shock electrico, la mas lejana.
+* Entre 8 y 12 cal/cm2 es requerido la balaclava
+* sobre 12 cal/cm2 es requerido la capucha o escafandra
